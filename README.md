@@ -1,0 +1,1 @@
+# quick_calculate_max_distance_of_coordinates
